@@ -6,7 +6,7 @@ Python IDE
 
 # Program
 
-# Impulse Sampling
+# Ideal Sampling
 ```import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -160,21 +160,22 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-# Impulse Sampling
+# Ideal Sampling
 ```
+<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/04ec413a-64f3-4c9d-8282-5c8f0f69d7cc" />
+
 ```
 # Natural Sampling
 ```
 <img width="1436" height="998" alt="image" src="https://github.com/user-attachments/assets/8124d08b-f354-4672-bf9e-a3940394b138" />
-
 ```
 # Flat-top Sampling
 ```
 <img width="1438" height="995" alt="Screenshot 2026-02-06 024237" src="https://github.com/user-attachments/assets/b91a3716-109d-4e1a-895e-c992b38b9c12" />
 
+
 ```
 # Results
-```
 Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were successfully implemented using Python, and the corresponding waveforms were obtained.
-```
+
 
