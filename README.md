@@ -154,13 +154,14 @@ plt.show()
 
 # Output Waveform
 # Ideal Sampling:
-<img width="988" height="742" alt="one" src="https://github.com/user-attachments/assets/6029e1fa-70ad-44d6-b748-6e21f852afe4" />
+```<img width="988" height="742" alt="one" src="https://github.com/user-attachments/assets/6029e1fa-70ad-44d6-b748-6e21f852afe4" />```
 
 # Natural Sampling:
-<img width="981" height="829" alt="two" src="https://github.com/user-attachments/assets/f2c737fc-2915-4cd6-b7ce-be3c6e9fba43" />
+```<img width="981" height="829" alt="two" src="https://github.com/user-attachments/assets/f2c737fc-2915-4cd6-b7ce-be3c6e9fba43" />```
+
 
 # Flat-top -Sampling:
-<img width="981" height="829" alt="three" src="https://github.com/user-attachments/assets/c5c500de-62d3-405f-9c26-f39c334d78c0" />
+```<img width="981" height="829" alt="three" src="https://github.com/user-attachments/assets/c5c500de-62d3-405f-9c26-f39c334d78c0" />```
 
 
 # Results
