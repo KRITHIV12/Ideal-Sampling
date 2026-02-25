@@ -1,3 +1,5 @@
+# KRITHI.V
+# 212224060128
 # Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
