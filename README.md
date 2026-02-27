@@ -1,6 +1,7 @@
-# KRITHI.V
-# 212224060128
+
 # Ideal, Natural, & Flat-top -Sampling
+# NAME:KRITHI.V
+# REG NO: 212224060128
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
