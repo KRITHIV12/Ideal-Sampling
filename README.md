@@ -1,6 +1,6 @@
 
 # Ideal, Natural, & Flat-top -Sampling
-# NAME:KRITHI.V
+# NAME: KRITHI.V
 # REG NO: 212224060128
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
@@ -28,7 +28,7 @@ xr = resample(xs, len(t))
 
 # Plot
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : RITHISH\nREG NO : 212224060216",
+plt.suptitle("NAME : KRITHI.V\nREG NO : 212224060128",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
@@ -77,7 +77,7 @@ rec = lfilter(b, a, nat)
 
 # Plot
 plt.figure(figsize=(10,9))
-plt.suptitle("NAME : RITHISH S\nREG NO : 212224060216",
+plt.suptitle("NAME : KRITHI V\nREG NO : 212224060128",
              fontsize=12, fontweight='bold')
 
 plt.subplot(4,1,1)
